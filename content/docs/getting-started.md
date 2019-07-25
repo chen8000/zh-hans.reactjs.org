@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: 开始
+title: 开始123
 permalink: docs/getting-started.html
 next: add-react-to-a-website.html
 redirect_from:
